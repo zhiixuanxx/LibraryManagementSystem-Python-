@@ -1,0 +1,9 @@
+1) Book ISBN: 4444444444444, Book Title: Elelphant, Book Author: Ele, Book Status: On loan
+2) Book ISBN: 1111111111111, Book Title: Yoyo, Book Author: Yy, Book Status: On loan
+3) Book ISBN: 2222222222222, Book Title: Ppop, Book Author: Pp, Book Status: Available
+4) Book ISBN: 6666666666666, Book Title: Rabbit, Book Author: Rab, Book Status: Available
+5) Book ISBN: 5555555555555, Book Title: Labubu, Book Author: Bubu, Book Status: Available
+6) Book ISBN: 3333333333333, Book Title: Bee, Book Author: B, Book Status: Available
+7) Book ISBN: 8888888888888, Book Title: Great Wall, Book Author: Gw, Book Status: Available
+8) Book ISBN: 7777777777777, Book Title: Totoro, Book Author: Tt, Book Status: Available
+9) Book ISBN: 9999999999999, Book Title: Harry Potter, Book Author: Jk Rowling, Book Status: Available
